@@ -1,0 +1,5 @@
+In this, we make an api call to somewhere and then 
+we fetch the joke data and then show it on the screen
+
+!!! ALERT!!!
+We use api calling here.
